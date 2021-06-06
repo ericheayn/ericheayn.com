@@ -1,0 +1,14 @@
+.navigation {
+
+}
+
+.navigation ul {
+  list-style-type: none;
+  margin: 20px;
+  padding: 0;
+}
+
+.navigation ul li {
+  display: inline-block;
+  margin-right: 20px;
+}
